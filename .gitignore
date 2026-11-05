@@ -1,0 +1,79 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+build/
+logs/
+.gradle/
+.idea/
+out/
+target/
+sls-output/
+docs/superpowers/plans/
+.DS_Store
+
+http-client.private.env.json
+application-dev*
+application-k8s*
+application-vpc*
+bootstrap-dev*
+bootstrap-k8s*
+bootstrap-vpc*
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+coverage
+
+# next.js
+.next/
+out/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+.qoder/
+.github/
+lp-biz/lp-biz-gateway/doc/spec/*
+mydocs/
+.vscode/
+local-dev/
+.worktrees/
+.aone_copilot/
+docs/
+.cursor/
